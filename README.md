@@ -1,0 +1,1 @@
+This project focuses on performing relational sales data analysis by integrating multiple Excel datasets and analyzing them using Jupyter Notebook (Python) and Power BI. The objective is to uncover meaningful business insights such as sales performance, customer behavior, product trends, and regional profitability by establishing relationships between datasets.
